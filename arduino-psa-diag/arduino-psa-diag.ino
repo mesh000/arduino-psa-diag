@@ -34,7 +34,7 @@ all copies or substantial portions of the Software.
 #define CAN_RCV_BUFFER 40
 #define CAN_DEFAULT_DELAY 5 // Delay between multiframes
 #define MAX_DATA_LENGTH 512
-#define CS_PIN_CAN0 10
+#define CS_PIN_CAN0 9
 #define SERIAL_SPEED 115200
 #define CAN_SPEED CAN_500KBPS // Diagnostic CAN bus - High Speed
 #define CAN_FREQ MCP_16MHZ // Switch to 8MHZ if you have a 8Mhz module
